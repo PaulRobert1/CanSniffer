@@ -1,5 +1,7 @@
 # Civic J2534 CAN Sniffer v2.2 Discovery
 
+<img width="1439" height="911" alt="image" src="https://github.com/user-attachments/assets/2e168416-67a8-4237-b3b4-6bfd2de978e5" />
+
 Receive-only Windows Forms CAN monitor for Honda Civic / J2534 reverse-engineering work.
 
 ## v2.2 Discovery changes
